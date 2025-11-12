@@ -53,16 +53,21 @@ h2{
     position: relative;
 }
 
-.img-tag{
+/* .img-tag{
     background-color: orange;
     position: absolute;
     top: 0;
-}
+} */
 
 .tag{
-    padding: 5px 35px;
+    padding: 25px 35px;
+    background-color: orange;
+    position: absolute;
+    top: 0;
+    margin: 0;
 }
 
 .item-img{
     width: 100%;
+    display: inline;
 }
