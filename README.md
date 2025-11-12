@@ -1,12 +1,9 @@
-A sikmple Co-working space project to furthr solidify HTML/CSS skills learnt as part of the Scrimba Full stack developer course
-## About Scrimba
+# Co‑working Space — Quick CSS Positioning Exercise
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+A small, focused CSS project designed to solidify understanding of core positioning concepts and how they interact with Flexbox. This is Part of the Scrimba Full Stack Developer course.
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+## Purpose
+This project is a quick exercise that demonstrates:
+- CSS positioning modes: `relative`, `absolute`, and `fixed`
+- How positioned elements behave inside normal flow and stacking contexts
+- Positioning elements inside a Flexbox container using flex properties and `margin: auto`
