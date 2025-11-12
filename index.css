@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat", sans-serif;
+}
+
+.container{
+    width: 960px;
+    margin: 0 auto;
+}
+
+header{
+    background-color: #232323;
+    color: whitesmoke;
+}
+
+nav ul{
+    display: flex;
+    align-items: center;
+    margin-top: 0;
+    padding: 25px;
+}
+
+
+.item-img{
+    width: 100%;
+}
