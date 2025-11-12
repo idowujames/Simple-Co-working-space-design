@@ -33,9 +33,17 @@ nav ul{
     width: 35px;
 }
 
-.fa{
+nav .fa{
     font-size: 28px;
     margin-left: auto;
+    cursor: pointer;
+}
+
+h1{
+    font-size: 80px;
+    font-weight: 400;
+    margin: 50px 145px 20px 25px;
+    line-height: 1;
 }
 
 .item-img{
